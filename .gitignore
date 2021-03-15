@@ -1,0 +1,8 @@
+old_work/*
+activity_data/*
+status/*
+run-strava.bat
+
+notebooks/secrets.py
+notebooks/get_first_token.py
+notebooks/my_schedule.py
